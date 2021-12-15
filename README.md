@@ -1,22 +1,20 @@
-### Hi there, I'm Fateha Rozy.
+### Hi there, I'm [Fateha Rozy.][linkedin]
 
-## I'm a Graduate Engineer shifting towards Data Science
+## I am:
 
-- 🔭 I'm a certified Data Engineer (by the Center of Applied Data Science)
-- 🌱 I seek for opportunities to put my data skills to a bigger purpose
-- 👯 I'm continuously learning new things and hope to aid the industry towards IR4.0.
+- 👩‍🎓 a Graduate Engineer shifting towards Data Science
+- 💡 a certified Data Engineer (by the Center of Applied Data Science)
+- 📚 continuously learning new things and hope to aid the industry towards IR4.0.
 
-
-### Connect with me: [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="tableau" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tableau.jpg" />]
-[<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" />]
+<img align="left" alt="Python" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="tableau" width="80" src="https://user-images.githubusercontent.com/18670428/67619998-1227e580-f7fa-11e9-87de-99aef8ab17c5.png" />
+<img align="left" alt="Matlab" width="50" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" />
 
 <br />
 <br />

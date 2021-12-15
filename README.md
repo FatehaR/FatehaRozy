@@ -1,10 +1,11 @@
-### Hi there, I'm [Fateha Rozy.][linkedin]
+### Hi there, I'm Fateha Rozy.
 
 ## I am:
 
-- 👩‍🎓 a Graduate Engineer shifting towards Data Science
+- 👩‍🎓 a Graduate Engineer (Mechanical) shifting towards Data Science
 - 💡 a certified Data Engineer (by the Center of Applied Data Science)
-- 📚 continuously learning new things and hope to aid the industry towards IR4.0.
+- 📚 continuously learning new things and aiming to aid the industry towards IR4.0.
+- 📫 reachable through my [Linkedin.][linkedin] Let's connect!
 
 
 <br />

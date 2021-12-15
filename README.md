@@ -19,7 +19,4 @@
 [<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/10817626/67014544-482be200-f0f5-11e9-8e74-3dd575c8ad83.png" />]
 
 
-<br />
-<br />
-
 [linkedin]: https://www.linkedin.com/in/fateha-syuhada-rozy/

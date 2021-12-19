@@ -1,4 +1,5 @@
-### Hi there, I'm Fateha Rozy.
+### Hi there! I'm Fateha Rozy.
+⭐Thank you for visiting. While you're here, why not checkout some of my repositories to view some of my **Data Science Projects**.
 
 ## I am:
 
